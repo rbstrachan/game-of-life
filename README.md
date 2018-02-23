@@ -1,5 +1,5 @@
 # game-of-life
-A python variant of Conway's Game Of Life
+A Python variant of Conway's Game Of Life
 
 # Disclaimer
 Any and all code in this repository has been taken from [Using Python](http://usingpython.com/dl/GameOfLife.py). The owner of this repository does not claim, nor has, ownership of the program. The source code has been ported over to GitHub in an attempt to make it backwards compatible.
