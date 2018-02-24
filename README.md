@@ -1,4 +1,4 @@
-# game-of-life
+# game-of-life ![](https://img.shields.io/travis/rbstrachan/game-of-life.svg)
 A Python variant of Conway's Game Of Life
 
 # Disclaimer
