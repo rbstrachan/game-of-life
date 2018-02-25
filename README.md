@@ -1,4 +1,4 @@
-# game-of-life ![](https://img.shields.io/badge/License-CC%20BY--SA%203.0-blue.svg) ![](https://img.shields.io/travis/rbstrachan/game-of-life.svg) ![](https://img.shields.io/codeclimate/maintainability/rbstrachan/game-of-life.svg) ![](https://img.shields.io/github/issues/rbstrachan/game-of-life.svg)
+# game-of-life ![](https://img.shields.io/badge/License-CC%20BY--SA%203.0-blue.svg) ![](https://img.shields.io/codeclimate/maintainability/rbstrachan/game-of-life.svg) ![](https://img.shields.io/github/issues/rbstrachan/game-of-life.svg)
 A Python variant of Conway's Game Of Life
 
 # Disclaimer
